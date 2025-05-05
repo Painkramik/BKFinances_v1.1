@@ -1,0 +1,21 @@
+BKFinances v1.1 – 04/05/2025
+
+✅ Nouveautés :
+- Historique des modifications (ajout, suppression, modification)
+- Épinglage des comptes et catégories en favoris
+- Ajout de raccourcis pour les éléments souvent utilisés
+- Rapports visuels (camembert, barres)
+- Système d’opérations planifiées avec validation mensuelle
+- Échéancier pour les frais récurrents (loyer, eau, etc.)
+- Ajout automatique des tiers inconnus lors d’une opération
+- Solde permis pour chaque compte (défini à l’ajout)
+- Améliorations de l’interface avec couleurs personnalisées
+
+🛠️ Technique :
+- Nouveau champ `solde_permis` dans les comptes
+- Ajout du fichier `build.bat` pour faciliter la compilation
+- Utilisation d’icônes `.ico` au lieu des `.png`
+- Interface : coloration personnalisée des lignes, cadres et sélection
+
+💡 Note :
+Produit avec amour et puissance grâce à ChatGPT Plus.
